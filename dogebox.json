@@ -1,0 +1,6 @@
+{
+  "id": "dts.pups.core-testnet",
+  "name": "dts — dogecoin core (testnet)",
+  "description": "Public testnet3 Dogecoin Core pup for Dogebox",
+  "pups": [{"location": "core-testnet"}]
+}
